@@ -1,0 +1,29 @@
+h1 {
+  color: orangered;
+  letter-spacing: -2px;
+}
+
+h3 {
+  color: orangered;
+  font-style: italic;
+}
+
+p {
+  color: maroon;
+}
+
+.background-yellow {
+  background-color: yellow;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.text-spacing {
+  letter-spacing: 5px;
+}
+
+.line-height {
+  line-height: 50px;
+}
